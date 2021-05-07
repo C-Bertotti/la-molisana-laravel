@@ -1,4 +1,9 @@
 //
-body {
-    background-color: red;
-}
+@import 'Partials/variables';
+@import 'Partials/common';
+@import 'Partials/typo';
+
+@import 'Partials/header';
+@import 'Partials/main';
+@import 'Partials/footer';
+
